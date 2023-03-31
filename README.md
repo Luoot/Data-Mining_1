@@ -8,8 +8,9 @@
 
 ## 2. 数据集
 
-数据集1：MovieLens 10M Dataset (Latest Version)
-数据集2：Alzheimer Disease and Healthy Aging Data In US
+*数据集1：MovieLens 10M Dataset (Latest Version)
+
+*数据集2：Alzheimer Disease and Healthy Aging Data In US
 
 ## 3. 数据分析要求
 
